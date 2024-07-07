@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xatey999" alt="xatey999" /></a> </p>
 
-- 🔭 I’m currently working on [Hamro-booking-sewa-backend](https://github.com/xatey999/Hamro-booking-sewa-backend)
-
 - 🌱 I’m currently learning **Node.js, React Native, Laravel.**
 
-- 📫 How to reach me **ujjwal999adhikari@gmail.com**
+- 📫 Contact me here -> **ujjwal999adhikari@gmail.com**
 
-- ⚡ Fun fact **I like watching anime, football and playing games, guitar, listening songs mostly raps.**
+- ⚡ Hobbies : **I like watching anime, football and playing games, guitar, listening songs mostly raps.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
